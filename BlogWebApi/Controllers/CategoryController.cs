@@ -13,7 +13,7 @@ using System.Security.Authentication;
 
 namespace BlogWebApi.Controllers
 {
-    [Authorize(Roles ="Admin")]
+    //[Authorize(Roles ="Admin")]
     [ApiController]
     [Route("[controller]")]
     public class CategoryController : ControllerBase

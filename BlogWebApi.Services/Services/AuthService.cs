@@ -58,9 +58,10 @@ namespace BlogWebApi.Services.Services
 
             AppUser user = new AppUser()
             {
-                FirstName = paramUser.UserName,
-                UserName = paramUser.UserEmail,
                 Email = paramUser.UserEmail,
+                UserName = paramUser.UserName,
+                FirstName = paramUser.UserFirstName,
+                LastName = paramUser.UserLastName,
                 PasswordSalt = paramUser.UserPassword,
                 IsActive = true,
                 CreatedDate = DateTime.Now,
@@ -69,7 +70,7 @@ namespace BlogWebApi.Services.Services
             var result = await userService.CreateAsync(user, paramUser.UserPassword);
             if (result.Succeeded)
             {
-                var role = await userService.AddToRoleAsync(user, paramUser.userRoles);
+                var role = await userService.AddToRoleAsync(user, "Basic");
                 return user;
             }
             else throw new BadRequestException("Something goes wrong!");

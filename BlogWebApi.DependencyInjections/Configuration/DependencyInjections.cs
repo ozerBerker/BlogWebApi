@@ -17,6 +17,8 @@ using Microsoft.AspNetCore.Builder;
 using Serilog;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Serilog.Core;
+using Microsoft.OpenApi.Any;
 
 namespace BlogWebApi.DependencyInjections.Configuration
 {

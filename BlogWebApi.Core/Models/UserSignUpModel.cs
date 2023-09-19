@@ -17,12 +17,16 @@ namespace BlogWebApi.Core.Models
         public string UserEmail { get; set; }
 
         [Required]
-        public string UserName { get; set; }
+        public string UserName{ get; set; }
+
+        [Required]
+        public string UserFirstName { get; set; }
+
+        [Required]
+        public string UserLastName { get; set; }
 
         [Required]
         public string UserPassword { get; set; }
-
-        public string userRoles { get; set; }
 
     }
 }

@@ -14,12 +14,12 @@ namespace BlogWebApi.Controllers
     public class AuthController : ControllerBase
     {
         private readonly IAuthService authService;
-        private readonly ILogger logger;
+        //private readonly ILogger logger;
 
-        public AuthController(IAuthService appUserService, ILogger logger)
+        public AuthController(IAuthService appUserService/*, ILogger logger*/)
         {
             this.authService = appUserService;
-            this.logger = logger;
+            //this.logger = logger;
         }
 
         [HttpPost]
