@@ -1,0 +1,17 @@
+C:\Users\Berker\source\repos\BlogWebApi.Contracts\bin\Debug\net6.0\BlogWebApi.Contracts.deps.json
+C:\Users\Berker\source\repos\BlogWebApi.Contracts\bin\Debug\net6.0\BlogWebApi.Contracts.dll
+C:\Users\Berker\source\repos\BlogWebApi.Contracts\bin\Debug\net6.0\BlogWebApi.Contracts.pdb
+C:\Users\Berker\source\repos\BlogWebApi.Contracts\obj\Debug\net6.0\BlogWebApi.Contracts.csproj.AssemblyReference.cache
+C:\Users\Berker\source\repos\BlogWebApi.Contracts\obj\Debug\net6.0\BlogWebApi.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berker\source\repos\BlogWebApi.Contracts\obj\Debug\net6.0\BlogWebApi.Contracts.AssemblyInfoInputs.cache
+C:\Users\Berker\source\repos\BlogWebApi.Contracts\obj\Debug\net6.0\BlogWebApi.Contracts.AssemblyInfo.cs
+C:\Users\Berker\source\repos\BlogWebApi.Contracts\obj\Debug\net6.0\BlogWebApi.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Berker\source\repos\BlogWebApi.Contracts\obj\Debug\net6.0\BlogWebApi.Contracts.dll
+C:\Users\Berker\source\repos\BlogWebApi.Contracts\obj\Debug\net6.0\refint\BlogWebApi.Contracts.dll
+C:\Users\Berker\source\repos\BlogWebApi.Contracts\obj\Debug\net6.0\BlogWebApi.Contracts.pdb
+C:\Users\Berker\source\repos\BlogWebApi.Contracts\obj\Debug\net6.0\ref\BlogWebApi.Contracts.dll
+C:\Users\Berker\source\repos\BlogWebApi.Contracts\bin\Debug\net6.0\BlogWebApi.Core.dll
+C:\Users\Berker\source\repos\BlogWebApi.Contracts\bin\Debug\net6.0\BlogWebApi.Core.pdb
+C:\Users\Berker\source\repos\BlogWebApi.Contracts\obj\Debug\net6.0\BlogWebApi.Contracts.csproj.CopyComplete
+C:\Users\Berker\source\repos\BlogWebApi.Contracts\bin\Debug\net6.0\BlogWebApi.Domain.dll
+C:\Users\Berker\source\repos\BlogWebApi.Contracts\bin\Debug\net6.0\BlogWebApi.Domain.pdb
