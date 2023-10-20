@@ -12,3 +12,17 @@ C:\Users\Berker\source\repos\BlogWebApi.Domain\obj\Debug\net6.0\refint\BlogWebAp
 C:\Users\Berker\source\repos\BlogWebApi.Domain\obj\Debug\net6.0\BlogWebApi.Domain.pdb
 C:\Users\Berker\source\repos\BlogWebApi.Domain\obj\Debug\net6.0\BlogWebApi.Domain.genruntimeconfig.cache
 C:\Users\Berker\source\repos\BlogWebApi.Domain\obj\Debug\net6.0\ref\BlogWebApi.Domain.dll
+C:\Users\Berker\Desktop\BlogWebApi\BlogWebApi.Domain\bin\Debug\net6.0\BlogWebApi.Domain.deps.json
+C:\Users\Berker\Desktop\BlogWebApi\BlogWebApi.Domain\bin\Debug\net6.0\BlogWebApi.Domain.runtimeconfig.json
+C:\Users\Berker\Desktop\BlogWebApi\BlogWebApi.Domain\bin\Debug\net6.0\BlogWebApi.Domain.dll
+C:\Users\Berker\Desktop\BlogWebApi\BlogWebApi.Domain\bin\Debug\net6.0\BlogWebApi.Domain.pdb
+C:\Users\Berker\Desktop\BlogWebApi\BlogWebApi.Domain\obj\Debug\net6.0\BlogWebApi.Domain.csproj.AssemblyReference.cache
+C:\Users\Berker\Desktop\BlogWebApi\BlogWebApi.Domain\obj\Debug\net6.0\BlogWebApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berker\Desktop\BlogWebApi\BlogWebApi.Domain\obj\Debug\net6.0\BlogWebApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Berker\Desktop\BlogWebApi\BlogWebApi.Domain\obj\Debug\net6.0\BlogWebApi.Domain.AssemblyInfo.cs
+C:\Users\Berker\Desktop\BlogWebApi\BlogWebApi.Domain\obj\Debug\net6.0\BlogWebApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Berker\Desktop\BlogWebApi\BlogWebApi.Domain\obj\Debug\net6.0\BlogWebApi.Domain.dll
+C:\Users\Berker\Desktop\BlogWebApi\BlogWebApi.Domain\obj\Debug\net6.0\refint\BlogWebApi.Domain.dll
+C:\Users\Berker\Desktop\BlogWebApi\BlogWebApi.Domain\obj\Debug\net6.0\BlogWebApi.Domain.pdb
+C:\Users\Berker\Desktop\BlogWebApi\BlogWebApi.Domain\obj\Debug\net6.0\BlogWebApi.Domain.genruntimeconfig.cache
+C:\Users\Berker\Desktop\BlogWebApi\BlogWebApi.Domain\obj\Debug\net6.0\ref\BlogWebApi.Domain.dll

@@ -10,7 +10,7 @@ using System.Security.Claims;
 
 namespace BlogWebApi.Controllers
 {
-    [Authorize(Roles = "Admin, Author")]
+    //[Authorize(Roles = "Admin, Author")]
     [ApiController]
     [Route("[controller]")]
     public class ArticleController : Controller
@@ -94,11 +94,11 @@ namespace BlogWebApi.Controllers
         }
 
         [HttpDelete("Delete")]
-        public async Task<ActionResult> Delete(int id)
+        public async Task<ActionResult> Delete(int id, int userId)
         {
             try
             {
-                var userId = Convert.ToInt32(HttpContext.User.FindFirstValue("id"));
+                //var userId = Convert.ToInt32(HttpContext.User.FindFirstValue("id"));
                 var result = await articleService.Delete(id, userId);
                 return Ok(result);
             }

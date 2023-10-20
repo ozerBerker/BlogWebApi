@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mw90l343jI1SlT8SSxPsKxQ2cXUBy7MNQ7O88+h9r/oX0IXzt+YyMT3mtXWak4VTjes5NR/Ba7p1WtnO+7fl7A==",
+  "dgSpecHash": "P9LoBEQtFenKBdzf7aMvie3DXt83cNOclfvid1PyM7D9Qh9pCpiz30bRZFj9IzYm+6DzOzydYM2KRYsmXka0ew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Berker\\source\\repos\\BlogWebApi.Domain\\BlogWebApi.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Berker\\Desktop\\BlogWebApi\\BlogWebApi.Domain\\BlogWebApi.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Berker\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Berker\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

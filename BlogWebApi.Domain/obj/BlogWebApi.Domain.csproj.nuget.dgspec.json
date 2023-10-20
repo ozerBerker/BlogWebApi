@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Berker\\source\\repos\\BlogWebApi.Domain\\BlogWebApi.Domain.csproj": {}
+    "C:\\Users\\Berker\\Desktop\\BlogWebApi\\BlogWebApi.Domain\\BlogWebApi.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Berker\\source\\repos\\BlogWebApi.Domain\\BlogWebApi.Domain.csproj": {
+    "C:\\Users\\Berker\\Desktop\\BlogWebApi\\BlogWebApi.Domain\\BlogWebApi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Berker\\source\\repos\\BlogWebApi.Domain\\BlogWebApi.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Berker\\Desktop\\BlogWebApi\\BlogWebApi.Domain\\BlogWebApi.Domain.csproj",
         "projectName": "BlogWebApi.Domain",
-        "projectPath": "C:\\Users\\Berker\\source\\repos\\BlogWebApi.Domain\\BlogWebApi.Domain.csproj",
+        "projectPath": "C:\\Users\\Berker\\Desktop\\BlogWebApi\\BlogWebApi.Domain\\BlogWebApi.Domain.csproj",
         "packagesPath": "C:\\Users\\Berker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Berker\\source\\repos\\BlogWebApi.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Berker\\Desktop\\BlogWebApi\\BlogWebApi.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

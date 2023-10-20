@@ -3442,11 +3442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Berker\\source\\repos\\BlogWebApi.Contracts\\BlogWebApi.Contracts.csproj",
+      "projectUniqueName": "C:\\Users\\Berker\\Desktop\\BlogWebApi\\BlogWebApi.Contracts\\BlogWebApi.Contracts.csproj",
       "projectName": "BlogWebApi.Contracts",
-      "projectPath": "C:\\Users\\Berker\\source\\repos\\BlogWebApi.Contracts\\BlogWebApi.Contracts.csproj",
+      "projectPath": "C:\\Users\\Berker\\Desktop\\BlogWebApi\\BlogWebApi.Contracts\\BlogWebApi.Contracts.csproj",
       "packagesPath": "C:\\Users\\Berker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Berker\\source\\repos\\BlogWebApi.Contracts\\obj\\",
+      "outputPath": "C:\\Users\\Berker\\Desktop\\BlogWebApi\\BlogWebApi.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3467,11 +3467,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Berker\\source\\repos\\BlogWebApi.Core\\BlogWebApi.Core.csproj": {
-              "projectPath": "C:\\Users\\Berker\\source\\repos\\BlogWebApi.Core\\BlogWebApi.Core.csproj"
+            "C:\\Users\\Berker\\Desktop\\BlogWebApi\\BlogWebApi.Core\\BlogWebApi.Core.csproj": {
+              "projectPath": "C:\\Users\\Berker\\Desktop\\BlogWebApi\\BlogWebApi.Core\\BlogWebApi.Core.csproj"
             },
-            "C:\\Users\\Berker\\source\\repos\\BlogWebApi.Domain\\BlogWebApi.Domain.csproj": {
-              "projectPath": "C:\\Users\\Berker\\source\\repos\\BlogWebApi.Domain\\BlogWebApi.Domain.csproj"
+            "C:\\Users\\Berker\\Desktop\\BlogWebApi\\BlogWebApi.Domain\\BlogWebApi.Domain.csproj": {
+              "projectPath": "C:\\Users\\Berker\\Desktop\\BlogWebApi\\BlogWebApi.Domain\\BlogWebApi.Domain.csproj"
             }
           }
         }

@@ -5763,11 +5763,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Berker\\source\\repos\\BlogWebApi.DependencyInjections\\BlogWebApi.DependencyInjections.csproj",
+      "projectUniqueName": "C:\\Users\\Berker\\Desktop\\BlogWebApi\\BlogWebApi.DependencyInjections\\BlogWebApi.DependencyInjections.csproj",
       "projectName": "BlogWebApi.DependencyInjections",
-      "projectPath": "C:\\Users\\Berker\\source\\repos\\BlogWebApi.DependencyInjections\\BlogWebApi.DependencyInjections.csproj",
+      "projectPath": "C:\\Users\\Berker\\Desktop\\BlogWebApi\\BlogWebApi.DependencyInjections\\BlogWebApi.DependencyInjections.csproj",
       "packagesPath": "C:\\Users\\Berker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Berker\\source\\repos\\BlogWebApi.DependencyInjections\\obj\\",
+      "outputPath": "C:\\Users\\Berker\\Desktop\\BlogWebApi\\BlogWebApi.DependencyInjections\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5788,14 +5788,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Berker\\source\\repos\\BlogWebApi.Contracts\\BlogWebApi.Contracts.csproj": {
-              "projectPath": "C:\\Users\\Berker\\source\\repos\\BlogWebApi.Contracts\\BlogWebApi.Contracts.csproj"
+            "C:\\Users\\Berker\\Desktop\\BlogWebApi\\BlogWebApi.Contracts\\BlogWebApi.Contracts.csproj": {
+              "projectPath": "C:\\Users\\Berker\\Desktop\\BlogWebApi\\BlogWebApi.Contracts\\BlogWebApi.Contracts.csproj"
             },
-            "C:\\Users\\Berker\\source\\repos\\BlogWebApi.Domain\\BlogWebApi.Domain.csproj": {
-              "projectPath": "C:\\Users\\Berker\\source\\repos\\BlogWebApi.Domain\\BlogWebApi.Domain.csproj"
+            "C:\\Users\\Berker\\Desktop\\BlogWebApi\\BlogWebApi.Domain\\BlogWebApi.Domain.csproj": {
+              "projectPath": "C:\\Users\\Berker\\Desktop\\BlogWebApi\\BlogWebApi.Domain\\BlogWebApi.Domain.csproj"
             },
-            "C:\\Users\\Berker\\source\\repos\\BlogWebApi.Services\\BlogWebApi.Services.csproj": {
-              "projectPath": "C:\\Users\\Berker\\source\\repos\\BlogWebApi.Services\\BlogWebApi.Services.csproj"
+            "C:\\Users\\Berker\\Desktop\\BlogWebApi\\BlogWebApi.Services\\BlogWebApi.Services.csproj": {
+              "projectPath": "C:\\Users\\Berker\\Desktop\\BlogWebApi\\BlogWebApi.Services\\BlogWebApi.Services.csproj"
             }
           }
         }
